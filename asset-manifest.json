@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/visual-design/static/css/main.da434465.chunk.css",
-    "main.js": "/visual-design/static/js/main.f66fc225.chunk.js",
-    "main.js.map": "/visual-design/static/js/main.f66fc225.chunk.js.map",
+    "main.css": "/visual-design/static/css/main.e6455fde.chunk.css",
+    "main.js": "/visual-design/static/js/main.b736a135.chunk.js",
+    "main.js.map": "/visual-design/static/js/main.b736a135.chunk.js.map",
     "runtime-main.js": "/visual-design/static/js/runtime-main.8d2635e1.js",
     "runtime-main.js.map": "/visual-design/static/js/runtime-main.8d2635e1.js.map",
     "static/js/2.3fb977df.chunk.js": "/visual-design/static/js/2.3fb977df.chunk.js",
     "static/js/2.3fb977df.chunk.js.map": "/visual-design/static/js/2.3fb977df.chunk.js.map",
     "index.html": "/visual-design/index.html",
-    "precache-manifest.2b1a4090995b48c8c6ed04465851f074.js": "/visual-design/precache-manifest.2b1a4090995b48c8c6ed04465851f074.js",
+    "precache-manifest.99612ea0de9ec71575147b0be7d7b11e.js": "/visual-design/precache-manifest.99612ea0de9ec71575147b0be7d7b11e.js",
     "service-worker.js": "/visual-design/service-worker.js",
-    "static/css/main.da434465.chunk.css.map": "/visual-design/static/css/main.da434465.chunk.css.map",
+    "static/css/main.e6455fde.chunk.css.map": "/visual-design/static/css/main.e6455fde.chunk.css.map",
     "static/js/2.3fb977df.chunk.js.LICENSE.txt": "/visual-design/static/js/2.3fb977df.chunk.js.LICENSE.txt",
-    "static/media/design1_colourBalance.jpg": "/visual-design/static/media/design1_colourBalance.96336f94.jpg",
-    "static/media/design1_levels.jpg": "/visual-design/static/media/design1_levels.f8da9606.jpg",
+    "static/media/design1_colourBalance.jpg": "/visual-design/static/media/design1_colourBalance.ad8847e4.jpg",
+    "static/media/design1_levels.jpg": "/visual-design/static/media/design1_levels.83452de6.jpg",
     "static/media/design1_no_edit.jpg": "/visual-design/static/media/design1_no_edit.2e167763.jpg",
     "static/media/design1_no_fold.jpg": "/visual-design/static/media/design1_no_fold.93671fd3.jpg",
-    "static/media/design1_sky.jpg": "/visual-design/static/media/design1_sky.2dd06984.jpg"
+    "static/media/design1_sky.jpg": "/visual-design/static/media/design1_sky.8d4a810a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d2635e1.js",
     "static/js/2.3fb977df.chunk.js",
-    "static/css/main.da434465.chunk.css",
-    "static/js/main.f66fc225.chunk.js"
+    "static/css/main.e6455fde.chunk.css",
+    "static/js/main.b736a135.chunk.js"
   ]
 }
