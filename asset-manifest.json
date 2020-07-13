@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/visual-design/static/css/main.da434465.chunk.css",
+    "main.js": "/visual-design/static/js/main.dfa19c97.chunk.js",
+    "main.js.map": "/visual-design/static/js/main.dfa19c97.chunk.js.map",
+    "runtime-main.js": "/visual-design/static/js/runtime-main.8d2635e1.js",
+    "runtime-main.js.map": "/visual-design/static/js/runtime-main.8d2635e1.js.map",
+    "static/js/2.3fb977df.chunk.js": "/visual-design/static/js/2.3fb977df.chunk.js",
+    "static/js/2.3fb977df.chunk.js.map": "/visual-design/static/js/2.3fb977df.chunk.js.map",
+    "index.html": "/visual-design/index.html",
+    "precache-manifest.ebcfc9204bce25adcb6c334f8df43b71.js": "/visual-design/precache-manifest.ebcfc9204bce25adcb6c334f8df43b71.js",
+    "service-worker.js": "/visual-design/service-worker.js",
+    "static/css/main.da434465.chunk.css.map": "/visual-design/static/css/main.da434465.chunk.css.map",
+    "static/js/2.3fb977df.chunk.js.LICENSE.txt": "/visual-design/static/js/2.3fb977df.chunk.js.LICENSE.txt",
+    "static/media/design1_colourBalance.jpg": "/visual-design/static/media/design1_colourBalance.96336f94.jpg",
+    "static/media/design1_levels.jpg": "/visual-design/static/media/design1_levels.f8da9606.jpg",
+    "static/media/design1_no_edit.jpg": "/visual-design/static/media/design1_no_edit.2e167763.jpg",
+    "static/media/design1_no_fold.jpg": "/visual-design/static/media/design1_no_fold.93671fd3.jpg",
+    "static/media/design1_sky.jpg": "/visual-design/static/media/design1_sky.2dd06984.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d2635e1.js",
+    "static/js/2.3fb977df.chunk.js",
+    "static/css/main.da434465.chunk.css",
+    "static/js/main.dfa19c97.chunk.js"
+  ]
+}
