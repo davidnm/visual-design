@@ -1,0 +1,55 @@
+header {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1vw;
+    padding-left: 40%;
+    padding-bottom: 0.01vw;
+    background-color:  rgb(39, 67, 117);
+  }
+  
+  .cabecera {
+    margin-left: 2%;
+    margin-top: 10px;
+    padding-top: 1vw;
+    color: whitesmoke;
+    font-size: 31px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5s font-size linear;
+    background-color:  rgb(39, 67, 117);
+  }
+  
+  nav {
+    padding-top: 10px;
+    justify-content: space-between;
+    background-color:  rgb(39, 67, 117);
+  }
+  
+  nav > ul {
+    text-align: bottom;
+    display: flex;
+    list-style-type: none;
+  }
+  
+
+  
+  nav > ul > li {
+    text-align: bottom;
+    margin: 0 1vw;
+  }
+  
+  nav > ul > li > a {
+    text-align: left;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: whitesmoke;
+    transition: color 0.3s linear;
+  }
+  
+  nav > ul > li > a:hover {
+    font-size: 13px;
+    color: lightcoral;
+    transition: color 0.5s linear;
+  }
+  
