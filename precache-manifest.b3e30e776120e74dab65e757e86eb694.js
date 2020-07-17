@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dec8b1a3f7f9dfe99c7b26c2fd895efd",
+    "revision": "0d2df4d513b3eb9ccdc6c05d7a59a6d7",
     "url": "/visual-design/index.html"
   },
   {
-    "revision": "bdc39930c57462e83e9a",
+    "revision": "6e58443f04fc41b09dd8",
     "url": "/visual-design/static/css/main.e6455fde.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visual-design/static/js/2.1bbd5438.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bdc39930c57462e83e9a",
-    "url": "/visual-design/static/js/main.67c76b7e.chunk.js"
+    "revision": "6e58443f04fc41b09dd8",
+    "url": "/visual-design/static/js/main.370c510d.chunk.js"
   },
   {
     "revision": "1db9bc59c040644eeabe",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visual-design/static/media/Portada.70f855f2.jpg"
   },
   {
-    "revision": "daa0849115ef77d01a43d0370793de8e",
-    "url": "/visual-design/static/media/Projects.daa08491.jpg"
+    "revision": "bcf76a10a0976a64691e865076a31b56",
+    "url": "/visual-design/static/media/Projects.bcf76a10.jpg"
   },
   {
     "revision": "c8175b035fa7a81235642d40b83dcaa2",
