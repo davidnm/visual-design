@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/visual-design/static/css/main.e6455fde.chunk.css",
-    "main.js": "/visual-design/static/js/main.29ce8e35.chunk.js",
-    "main.js.map": "/visual-design/static/js/main.29ce8e35.chunk.js.map",
+    "main.js": "/visual-design/static/js/main.67c76b7e.chunk.js",
+    "main.js.map": "/visual-design/static/js/main.67c76b7e.chunk.js.map",
     "runtime-main.js": "/visual-design/static/js/runtime-main.8d2635e1.js",
     "runtime-main.js.map": "/visual-design/static/js/runtime-main.8d2635e1.js.map",
-    "static/js/2.8058dd5e.chunk.js": "/visual-design/static/js/2.8058dd5e.chunk.js",
-    "static/js/2.8058dd5e.chunk.js.map": "/visual-design/static/js/2.8058dd5e.chunk.js.map",
+    "static/js/2.1bbd5438.chunk.js": "/visual-design/static/js/2.1bbd5438.chunk.js",
+    "static/js/2.1bbd5438.chunk.js.map": "/visual-design/static/js/2.1bbd5438.chunk.js.map",
     "index.html": "/visual-design/index.html",
-    "precache-manifest.eb74b81ee8ac1834a0c1bdad8fdaca4b.js": "/visual-design/precache-manifest.eb74b81ee8ac1834a0c1bdad8fdaca4b.js",
+    "precache-manifest.30f797a8f456a02563bf8e6008f34aae.js": "/visual-design/precache-manifest.30f797a8f456a02563bf8e6008f34aae.js",
     "service-worker.js": "/visual-design/service-worker.js",
     "static/css/main.e6455fde.chunk.css.map": "/visual-design/static/css/main.e6455fde.chunk.css.map",
-    "static/js/2.8058dd5e.chunk.js.LICENSE.txt": "/visual-design/static/js/2.8058dd5e.chunk.js.LICENSE.txt",
+    "static/js/2.1bbd5438.chunk.js.LICENSE.txt": "/visual-design/static/js/2.1bbd5438.chunk.js.LICENSE.txt",
+    "static/media/Portada.jpg": "/visual-design/static/media/Portada.70f855f2.jpg",
+    "static/media/Projects.jpg": "/visual-design/static/media/Projects.daa08491.jpg",
     "static/media/design.gif": "/visual-design/static/media/design.c8175b03.gif",
     "static/media/design1_colourBalance.jpg": "/visual-design/static/media/design1_colourBalance.ad8847e4.jpg",
     "static/media/design1_levels.jpg": "/visual-design/static/media/design1_levels.83452de6.jpg",
@@ -24,13 +26,12 @@
     "static/media/design2_brillo.jpg": "/visual-design/static/media/design2_brillo.cf855257.jpg",
     "static/media/design2_levels.jpg": "/visual-design/static/media/design2_levels.f7fa00ec.jpg",
     "static/media/design2_no_edit.jpg": "/visual-design/static/media/design2_no_edit.85ed8c27.jpg",
-    "static/media/design2_no_fold.jpg": "/visual-design/static/media/design2_no_fold.259e08de.jpg",
-    "static/media/portada.jpg": "/visual-design/static/media/portada.70f855f2.jpg"
+    "static/media/design2_no_fold.jpg": "/visual-design/static/media/design2_no_fold.259e08de.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d2635e1.js",
-    "static/js/2.8058dd5e.chunk.js",
+    "static/js/2.1bbd5438.chunk.js",
     "static/css/main.e6455fde.chunk.css",
-    "static/js/main.29ce8e35.chunk.js"
+    "static/js/main.67c76b7e.chunk.js"
   ]
 }
