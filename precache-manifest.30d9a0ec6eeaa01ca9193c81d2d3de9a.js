@@ -1,35 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d2df4d513b3eb9ccdc6c05d7a59a6d7",
+    "revision": "cb663904a03cd04d03c0fa800bb0814a",
     "url": "/visual-design/index.html"
   },
   {
-    "revision": "6e58443f04fc41b09dd8",
-    "url": "/visual-design/static/css/main.e6455fde.chunk.css"
+    "revision": "b19ed49b998f7088b340",
+    "url": "/visual-design/static/css/main.ee6a6338.chunk.css"
   },
   {
-    "revision": "b73fea54432071f49cb2",
-    "url": "/visual-design/static/js/2.1bbd5438.chunk.js"
+    "revision": "98da85fee740a2972aa2",
+    "url": "/visual-design/static/js/2.24881056.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/visual-design/static/js/2.1bbd5438.chunk.js.LICENSE.txt"
+    "url": "/visual-design/static/js/2.24881056.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e58443f04fc41b09dd8",
-    "url": "/visual-design/static/js/main.370c510d.chunk.js"
+    "revision": "b19ed49b998f7088b340",
+    "url": "/visual-design/static/js/main.8acc6855.chunk.js"
   },
   {
     "revision": "1db9bc59c040644eeabe",
     "url": "/visual-design/static/js/runtime-main.8d2635e1.js"
   },
   {
-    "revision": "70f855f204d0854f1e4badfb7b0aa658",
-    "url": "/visual-design/static/media/Portada.70f855f2.jpg"
+    "revision": "b92b6252e440e47c4491c2b0c7d0aa6c",
+    "url": "/visual-design/static/media/Portada.b92b6252.jpg"
   },
   {
-    "revision": "bcf76a10a0976a64691e865076a31b56",
-    "url": "/visual-design/static/media/Projects.bcf76a10.jpg"
+    "revision": "ec44571178d5f8cbf2449063ee3cd4d0",
+    "url": "/visual-design/static/media/PortadaMobile1.ec445711.jpg"
+  },
+  {
+    "revision": "d789972ca609e83e124bd79172b0d7f4",
+    "url": "/visual-design/static/media/PortadaMobile1_Small.d789972c.jpg"
+  },
+  {
+    "revision": "759237201e6057f5480f544b69598436",
+    "url": "/visual-design/static/media/PortadaMobile2.75923720.jpg"
+  },
+  {
+    "revision": "704893279051bd5aa5e53eecdb555c90",
+    "url": "/visual-design/static/media/Portada_Small.70489327.jpg"
+  },
+  {
+    "revision": "78004cc8878274b25a36157c5873d5d9",
+    "url": "/visual-design/static/media/Projects.78004cc8.jpg"
+  },
+  {
+    "revision": "952512f3aabe1dab02f5774081af768f",
+    "url": "/visual-design/static/media/Projects_Small.952512f3.jpg"
   },
   {
     "revision": "c8175b035fa7a81235642d40b83dcaa2",
@@ -82,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "259e08de6a1c5ec97c7df53da55a36e7",
     "url": "/visual-design/static/media/design2_no_fold.259e08de.jpg"
+  },
+  {
+    "revision": "aca6f2cced640ffa0c663b9b5ac63dee",
+    "url": "/visual-design/static/media/download.aca6f2cc.png"
   }
 ]);
